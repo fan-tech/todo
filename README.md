@@ -1,6 +1,20 @@
 # todo
 TodoListです。
 ---
+# TodoListを作りました！
+
+[GitHub - fan-tech/todo: TodoListです。](https://github.com/fan-tech/todo)
+
+## はじめに
+
+ベースは以下のサイトを参考にしています。
+
+[Django入門 | 初心者でも1時間でWebアプリ(Todoアプリ)を作成するコース | テックダイアリー](https://tech-diary.net/django-todo-tutorial/)
+
+実はこのままではなくて、
+
+DBの部分をMYSQL、色んな人のローカルで少しでも動きやすいようにDockerで環境構築できるようにしてあります。
+----
 ## 動かし方　お手元での動かし方
 
 #### まずは、少し書き換えが必要です。
