@@ -1,5 +1,4 @@
-# todo
-TodoListです。
+
 ---
 # TodoListを作りました！
 
